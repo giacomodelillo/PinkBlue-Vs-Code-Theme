@@ -24,7 +24,7 @@ To contribute clone the repository, edit only the Json file, and try it whit F5!
  Find me  :point_right: [*here*](https://github.com/Giacomo002/Candy-Vs-Code-Theme) on GitHub 
 
  # If something you don't like
-  If you find something tha works wrong or that you don't like leave an issue on the GitHub page [*here*](https://github.com/Giacomo002/Candy-Vs-Code-Theme)!
+  If you find something tha works wrong or that you don't like leave an issue on the GitHub page [*here*](https://github.com/Giacomo002/Candy-Vs-Code-Theme/issues)!
 
  # Don't forget to leave a Star :star: !
 
