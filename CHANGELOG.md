@@ -4,4 +4,4 @@ All notable changes to the "Candy-theme" extension will be documented in this fi
 
 ## [Unreleased]
 
-- Initial release Candy
+- Initial release PinkBlue

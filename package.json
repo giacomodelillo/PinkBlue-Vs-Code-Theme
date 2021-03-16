@@ -1,6 +1,6 @@
 {
-    "name": "candy-theme",
-    "displayName": "Candy Theme",
+    "name": "pinkblue-theme",
+    "displayName": "PinkBlue Theme",
     "description": "Official theme by Giacomo de Lillo",
     "publisher": "Giacomo002",
     "author": {
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Giacomo002/Candy-Vs-Code-Theme"
+        "url": "https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme"
     },
     "galleryBanner": {
         "color": "151a2bff",
@@ -23,7 +23,7 @@
         "Themes"
     ],
     "keywords": [
-        "candy",
+        "PinkBlue",
         "Dark Theme",
         "purple",
         "blue",
@@ -32,15 +32,15 @@
     ],
     "badges": [
         {
-            "url": "https://img.shields.io/github/last-commit/Giacomo002/Candy-Vs-Code-Theme"
+            "url": "https://img.shields.io/github/last-commit/Giacomo002/PinkBlue-Vs-Code-Theme"
         }
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Candy Theme",
+                "label": "PinkBlue Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Candy-theme.json"
+                "path": "./themes/PinkBlue-theme.json"
             }
         ]
     }
