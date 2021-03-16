@@ -6,7 +6,7 @@
     "author": {
         "name": "Giacomo de Lillo"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -15,7 +15,7 @@
         "url": "https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme"
     },
     "galleryBanner": {
-        "color": "151a2bff",
+        "color": "#151a2bff",
         "theme": "dark"
     },
     "icon": "images/icon/logo_250x250.png",
