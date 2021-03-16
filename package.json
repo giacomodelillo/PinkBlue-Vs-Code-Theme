@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme"
+        "url": "https://github.com/Giacomo002/Candy-Vs-Code-Theme"
     },
     "galleryBanner": {
         "color": "151a2bff",
@@ -32,7 +32,7 @@
     ],
     "badges": [
         {
-            "url": "https://img.shields.io/github/last-commit/Giacomo002/PinkBlue-Vs-Code-Theme"
+            "url": "https://img.shields.io/github/last-commit/Giacomo002/Candy-Vs-Code-Theme"
         }
     ],
     "contributes": {
