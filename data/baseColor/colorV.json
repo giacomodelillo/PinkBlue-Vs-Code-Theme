@@ -1,0 +1,37 @@
+{
+    "themes": [
+        {
+            "name": "PinkBlue",
+            "colors": {
+                "color1": "#1a1f33",
+                "color2": "#ffccff",
+                "color3": "#ff99e2",
+                "color4": "#30c1ff",
+                "color5": "#89dcc0",
+                "color6": "#f6fc9c"
+            }
+        },
+        {
+            "name": "PinkBlueAqua",
+            "colors": {
+                "color1": "#1a1f33",
+                "color2": "#cc99ff",
+                "color3": "#00b3ff",
+                "color4": "#9aa4cb",
+                "color5": "#76d6b6",
+                "color6": "#ebf197"
+            }
+        },
+        {
+            "name": "PinkBlueMonoDark",
+            "colors": {
+                "color1": "#1a1f33",
+                "color2": "#FF99E2",
+                "color3": "#B4C0F0",
+                "color4": "#5A74DB",
+                "color5": "#C47CB0",
+                "color6": "#9DB0FC"
+            }
+        }
+    ]
+}

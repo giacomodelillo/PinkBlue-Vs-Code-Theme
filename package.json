@@ -32,6 +32,8 @@
     ],
     "badges": [
         {
+            "description": "badges commit github",
+            "href": "https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme",
             "url": "https://img.shields.io/github/last-commit/Giacomo002/PinkBlue-Vs-Code-Theme"
         }
     ],
