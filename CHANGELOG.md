@@ -1,10 +1,12 @@
 # Change Log
 
-## [1.0.2]
+## [1.0.3]
 [unrealesed]
 - PinkBlue monochromatic theme
 - PinkBlue error color correction
-- PinkBlue Blued GitHub color merge correction
+- PinkBlue Blued GitHub color merge correctio
+
+## [1.0.2]
 ## [1.0.1]
 - PinkBlue Blued Theme
 - Color correction PinkBlue Theme
