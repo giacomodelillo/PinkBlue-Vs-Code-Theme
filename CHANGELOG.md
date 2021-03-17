@@ -1,7 +1,10 @@
 # Change Log
 
-All notable changes to the "Candy-theme" extension will be documented in this file.
+## [1.0.1]
+[UNREALEASED]
 
-## [Unreleased]
+- PinkBlue Aqua Theme
+- Color correction PinkBlue Theme
+## [1.0.0]
 
 - Initial release PinkBlue
