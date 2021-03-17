@@ -48,6 +48,11 @@
                 "label": "PinkBlue Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PinkBlue-theme.json"
+            },
+            {
+                "label": "PinkBlue Blued Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PinkBlue-Blued-theme.json"
             }
         ]
     }

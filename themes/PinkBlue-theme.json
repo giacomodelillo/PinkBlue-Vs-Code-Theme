@@ -1,5 +1,5 @@
 {
-	"name": "PinkBlue theme",
+	"name": "PinkBlue",
 	"type": "dark",
 	"tokenColors": [
 		{
@@ -333,13 +333,12 @@
 		}
 	],
 	"colors": {
-		
 		"terminal.foreground": "#b9c7ff",
 		"focusBorder": "#ff99e2",
 		"foreground": "#ffccff91",
 		"button.background": "#ff99e2b6",
 		"button.foreground": "#ffffff",
-		"button.hoverBackground" : "#ff99e269",
+		"button.hoverBackground": "#ff99e269",
 		"dropdown.background": "#293151",
 		"input.background": "#293151",
 		"inputOption.activeBorder": "#ff99e2",

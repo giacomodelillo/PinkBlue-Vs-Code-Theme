@@ -15,13 +15,22 @@
 <h2 align="center">Get the <span style="color:#ff66ff;">Pink</span><span style="color:#66ccff;">Blue</span> into your VS Code.</h2>
 
 
-![Preview](https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme/blob/main/images/screen1-mini.png?raw=true)
+![Preview](https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme/blob/main/images/screen1-mini.png?raw=true)![Preview](https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme/blob/main/images/screen1-mini.png?raw=true)
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `PinkBlue` - find the one by **Giacomo de Lillo**
 3. Click **Install** to install it.
 
+## Support
+
+-  C#
+-  CSS
+-  HTML
+-  Java
+-  JavaScript
+-  Markdown
+-  TypeScript
 ## Suggested Exstension
 
 To have the best result try this exstension whit it!

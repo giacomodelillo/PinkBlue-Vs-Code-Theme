@@ -12,23 +12,24 @@
             }
         },
         {
-            "name": "PinkBlueAqua",
+            "name": "PinkBlue BlueD",
             "colors": {
-                "color1": "#1a1f33",
-                "color2": "#cc99ff",
-                "color3": "#00b3ff",
-                "color4": "#9aa4cb",
-                "color5": "#76d6b6",
-                "color6": "#ebf197"
+                "color1": "#1f253d",
+                "color2": "#c9a4cf",
+                "color3": "#2da9e0",
+                "color4": "#d181bf",
+                "color5": "#89dcc0",
+                "color6": "#f6fc9c"
             }
         },
+        
         {
-            "name": "PinkBlueMonoDark",
+            "name": "PinkBlue MonoDark",
             "colors": {
                 "color1": "#1a1f33",
-                "color2": "#FF99E2",
-                "color3": "#B4C0F0",
-                "color4": "#5A74DB",
+                "color2": "#e9edfb",
+                "color3": "#4CC9F0",
+                "color4": "#c0caf1",
                 "color5": "#C47CB0",
                 "color6": "#9DB0FC"
             }
