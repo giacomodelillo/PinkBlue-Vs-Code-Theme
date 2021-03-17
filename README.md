@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-    <img src="https://raw.githubusercontent.com/Giacomo002/PinkBlue-Vs-Code-Theme/main/images/icon/logo_250x250.png" alt="logo" width="200">
-  <br><br>
   PinkBlue Themes
   <br>
   <br>
