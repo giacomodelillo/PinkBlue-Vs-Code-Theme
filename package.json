@@ -6,7 +6,7 @@
     "author": {
         "name": "Giacomo de Lillo"
     },
-    "version": "0.0.2",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.54.0"
     },
