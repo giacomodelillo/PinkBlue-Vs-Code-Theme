@@ -7,6 +7,7 @@
 - PinkBlue Blued GitHub color merge correctio
 
 ## [1.0.2]
+- bug fix
 ## [1.0.1]
 - PinkBlue Blued Theme
 - Color correction PinkBlue Theme
