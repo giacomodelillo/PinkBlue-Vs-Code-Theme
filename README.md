@@ -15,7 +15,7 @@
 <h2 align="center">Get the <span style="color:#ff66ff;">Pink</span><span style="color:#66ccff;">Blue</span> into your VS Code.</h2>
 
 
-![Preview](https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme/blob/main/images/screen1-mini.png?raw=true)![Preview](https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme/blob/main/images/screen1-mini.png?raw=true)
+![Preview](https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme/blob/main/images/bluedtheme.png?raw=true)![Preview](https://github.com/Giacomo002/PinkBlue-Vs-Code-Theme/blob/main/images/pinkbluetheme.png?raw=true)
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
