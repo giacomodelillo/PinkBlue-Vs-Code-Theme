@@ -6,7 +6,7 @@
     "author": {
         "name": "Giacomo de Lillo"
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -24,6 +24,10 @@
     ],
     "keywords": [
         "PinkBlue",
+        "Mono",
+        "Dark",
+        "Purple",
+        "Blue",
         "theme",
         "pink",
         "blue",
@@ -45,14 +49,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "PinkBlue Theme",
+                "label": "PinkBlue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PinkBlue-theme.json"
             },
             {
-                "label": "PinkBlue Blued Theme",
+                "label": "PinkBlue Blued",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PinkBlue-Blued-theme.json"
+            },
+            {
+                "label": "PinkBlue Blued",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PinkBlue-Monodark-theme.json"
             }
         ]
     }
