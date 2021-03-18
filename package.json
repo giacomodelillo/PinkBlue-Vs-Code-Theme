@@ -59,7 +59,7 @@
                 "path": "./themes/PinkBlue-Blued-theme.json"
             },
             {
-                "label": "PinkBlue Blued",
+                "label": "PinkBlue Monodark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PinkBlue-Monodark-theme.json"
             }
